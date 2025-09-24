@@ -73,22 +73,7 @@ Deploy as a web app or REST API for real-world clinical use
 
 Add explainability / interpretability tools (e.g. Grad-CAM, SHAP) to visualize model decisions
 
-🤝 Contributing
-Contributions, issues, and pull requests are welcome!
-Please follow these guidelines:
 
-Fork the repo
-
-Create a feature branch
-
-Add or improve code / documentation
-
-Submit a pull request with a clear description
-
-📄 License
-(Insert license here, e.g. MIT, Apache 2.0, etc.)
-
-📬 Contact
 For questions or collaboration, feel free to open an issue or reach out via GitHub.
 
 pgsql
